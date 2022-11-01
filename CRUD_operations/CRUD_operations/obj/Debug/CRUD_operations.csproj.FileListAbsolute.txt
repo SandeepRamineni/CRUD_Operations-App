@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.exe
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\bin\Debug\CRUD_operations.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.exe
+c:\users\dell\documents\visual studio 2015\Projects\CRUD_operations\CRUD_operations\obj\Debug\CRUD_operations.pdb
